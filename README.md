@@ -63,4 +63,6 @@
   <img src='./src/assets/images/jest_setup_ts.png'/>
   </p>
 
+# For errors in image files and styleds file, follow this tutorial: [Click here](https://codingwithmanny.medium.com/quick-jest-setup-with-vitejs-react-typescript-82f325e4323f)
+
 Now, create yours tests and test. 😂
